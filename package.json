@@ -16,6 +16,7 @@
     "@react-three/drei": "9.88.13",
     "@react-three/fiber": "8.15.11",
     "gltfjsx": "^6.2.15",
+    "leva": "^0.9.35",
     "next": "14.0.2",
     "react": "^18",
     "react-dom": "^18",
