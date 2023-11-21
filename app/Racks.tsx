@@ -22,6 +22,6 @@ const Racks = () => {
             <Environment preset="sunset" />
         </>
     );
-}
+};
 
-export default Racks
+export default Racks;

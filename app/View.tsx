@@ -21,7 +21,7 @@ const View = () => {
         </div>
       </div>
     </div>
-  );
-}
+  )
+};
 
-export default View
+export default View;
